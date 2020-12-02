@@ -21,6 +21,26 @@ header {
     flex-basis: 16%;
     border: 1px dotted black;
     padding: 1em;
-    margin: 0em 0.5em 0em 0em;
+    margin: 1em;
     text-align: left;
+}
+
+.shop__img {
+    min-width: 20em;
+    max-width: 20em;
+    max-height: 20em;
+    margin-bottom: 1em;
+}
+
+.shop__phone-number {
+    margin: .5em .5em .5em 0;
+}
+
+h2 {
+    color: black;
+}
+
+.shop__menu {
+    color: black;
+    font-weight: bold;
 }
